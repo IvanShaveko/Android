@@ -1,0 +1,11 @@
+ <resources>
+    <string name="app_name">Search</string>
+     <string name="search">search</string>
+     <string-array name="products">
+         <item>Bear</item>
+         <item>Milk</item>
+         <item>Bread</item>
+         <item>Tomatoes</item>
+         <item>Pizza</item>
+     </string-array>
+</resources>
